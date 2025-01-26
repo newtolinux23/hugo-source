@@ -5,7 +5,7 @@ navigation_menu_title: "My Services"
 weight: 2
 header_menu: true
 ---
-![Let us get started on a clean slate](/images/woman-pouring-juice-on-glass-3184192.jpg)
+![Let us get started on a clean slate](images/woman-pouring-juice-on-glass-3184192.jpg)
 
 At The Cheff By The Cooper, we’re here to make your dining experience seamless and delicious with a range of tailored services:
 
