@@ -1,16 +1,18 @@
 ---
-title: "Brief Legal Information"
+title: "Weekly Meal Program"
 weight: 98
-header_menu_title: "Legal"
-navigation_menu_title: "Legal stuff"
+header_menu_title: "Weekly Meal Program"
+navigation_menu_title: "Weekly Meal Program"
 header_menu: true
 detailed_page_path: /legal/
 detailed_page_homepage_content: true
 ---
-The file **legal-brief.md** creates an internal link on the cover page without the leading icon.
+#
+1. **Balanced Macros:** All meals tailored to include 40% carbs, 30% protein, and 30% fats.
+2. **Portion Sizes:** Small (300-400 cal), Medium (500-600 cal), and Large (700-800 cal).
+3. **Packages:**
+   - **5-day plan:** Breakfast, lunch, and dinner (15 meals).
+   - **7-day plan:** Breakfast, lunch, and dinner (21 meals).
+4. **Delivery Options:** Freshly made meals delivered twice weekly.
 
-If the parameter `detailed_page_homepage_content` is set to false neither this section nor the navigation menu entry will be shown (but the link on the cover page will be).
 
-If `detailed_page_homepage_content` is set to true or is missing at all, the link, navigation menu and the content will be rendered. In that case this section might contain less or just summarized information compared to the single page referenced by the parameter `detailed_page_path`.
-
-Want to see more about the details? See [dedicated page](legal) with more details or hit the button 'Legal' on the cover page.

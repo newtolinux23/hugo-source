@@ -1,5 +1,5 @@
 ---
-title: "Services"
+title: "Our Offerings"
 ---
 
 This is a page about the services, which I offer.

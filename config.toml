@@ -86,7 +86,7 @@ enableEmoji = true
 
     [[params.contacts]]
         label = "email"
-        value = "inf@thecheffbythecooper.com"
+        value = "info@thecheffbythecooper.com"
         url = "mailto:mail@janedoe.com"
         icon = "fa fa-envelope"
 
@@ -94,7 +94,7 @@ enableEmoji = true
         label = "Instagram"
         value = "instagram/thecheffbythecooper"
         url = "https://www.instagram.com"
-        icon = "fa-brands fa-facebook"
+        icon = "fa-brands fa-instagram"
 
     # Add additional contacts here!
     # [[params.contacts]]
