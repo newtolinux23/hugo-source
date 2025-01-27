@@ -9,7 +9,7 @@ header_use_video: false
 header_logo: "images/chef-hat.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
-header_headline: "The Cheff By The Cooper"
+header_headline: "The Chef By The Cooper"
 header_subheadline: "Authentic Latin-American Cuisine, Made Easy"
 
 # Add a 'Go back to top' item to the navigation menu
