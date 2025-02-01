@@ -25,4 +25,4 @@ Hosting an event? Let us handle the cooking while you enjoy the moment! From int
 **Your journey to effortless, delicious eating starts here.**  
 Let’s make every meal something to look forward to!  
 
-![Delicious Meal Prep](images/image5.jpg)
+![Delicious Meal Prep](images/image7.png)
