@@ -4,24 +4,28 @@ weight: 3
 header_menu: true
 ---
 
-### **⚖️ Balanced Macros**  
-All meals are carefully designed to include:  
-✔️ **40% Carbs**  
-✔️ **30% Protein**  
-✔️ **30% Fats**  
+![Delicious Meal Prep](images/image6.jpg)
 
-### **🍽️ Portion Sizes**  
-Choose the right fit for your goals:  
-🔹 **Small:** 300-400 cal  
-🔹 **Medium:** 500-600 cal  
-🔹 **Large:** 700-800 cal  
+## **Fresh, Flavorful, Delivered!**  
 
-### **📦 Meal Packages**  
-🥑 **5-Day Plan:** Breakfast, lunch, and dinner (**15 meals**)  
-🍗 **7-Day Plan:** Breakfast, lunch, and dinner (**21 meals**)  
+Tired of the hassle of cooking but still want **delicious, nutritious meals**? We've got you covered!  
 
-### **🚚 Delivery Options**  
-Freshly made meals **delivered twice weekly** for ultimate freshness!  
+**Weekly Meal Prep – Delivered to You**  
+At *The Chef By The Cooper*, we create **chef-crafted meals** with high-quality ingredients, bold flavors, and balanced nutrition—delivered **straight to your door** in Arlington.  
 
+🔹 **Rotating Weekly Menu** – Always fresh, exciting, and seasonal  
+🔹 **Lean Proteins | Vibrant Veggies | Wholesome Carbs**  
+🔹 **Bulk Options Available** – Get proteins, veggies, and carbs by the pound  
 
+![Delicious Meal Prep](images/image7.png)
+
+## **Catering – Elevate Your Events**  
+Hosting an event? Let us handle the cooking while you enjoy the moment! From intimate gatherings to large celebrations, our catering menu is designed to impress.  
+
+**Serving Arlington & Beyond**  
+
+**Weekly Delivery | Custom Catering**  
+
+Your journey to effortless, delicious eating starts here.  
+Let’s make every meal something to look forward to!  
 

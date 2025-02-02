@@ -1,30 +1,35 @@
 ---
-title: "Meal Prep"
+title: "Great Taste, Superfood!"
 weight: 3
 header_menu: true
 ---
-![Delicious Meal Prep](images/image6.jpg)
 
-### **Fresh. Flavorful. Delivered.**  
+![My Image](images/image9.png)
+# Fresh, Never-Frozen, Pre-Made Meals
 
-Tired of the hassle of cooking but still want **delicious, nutritious meals**? We've got you covered!  
+We only use premium ingredients from our network of trusted partners in our meal delivery service. All of our meals are Chef-prepared and Dietitian-approved.
 
-## **🥗 Weekly Meal Prep – Delivered to You**  
-At *The Chef By The Cooper*, we create **chef-crafted meals** with high-quality ingredients, bold flavors, and balanced nutrition—delivered **straight to your door** in Arlington.  
+---
 
-🔹 **Rotating Weekly Menu** – Always fresh, exciting, and seasonal  
-🔹 **Lean Proteins | Vibrant Veggies | Wholesome Carbs**  
-🔹 **Bulk Options Available** – Get proteins, veggies, and carbs by the pound  
+![My Image](images/image9.png)
+# Chef-Crafted Pre-Made Meals
 
-![Delicious Meal Prep](images/image7.png)
+Enjoy nutritious, restaurant-quality prepared meals at home. Crafted by our team of culinary experts.
 
-## **🍽️ Catering – Elevate Your Events**  
-Hosting an event? Let us handle the cooking while you enjoy the moment! From intimate gatherings to large celebrations, our catering menu is designed to impress.  
+---
 
-📍 **Serving Arlington & Beyond**  
-🚚 **Weekly Delivery | Custom Catering**  
+![My Image](images/image9.png)
+# Nutritious Meals Designed By Dietitians
 
-**Your journey to effortless, delicious eating starts here.**  
-Let’s make every meal something to look forward to!  
+Our registered dietitians work hand-in-hand with our kitchen to ensure every prepared meal is packed with premium, science-backed nutritional quality.
+
+---
+
+[![Button](https://img.shields.io/badge/Click%20Me-blue?style=for-the-badge)](https://www.instagram.com/thechefbythecooper?igsh=MWF5NHdvNTJjemR3eQ==)
+
+
+
+
+
 
 

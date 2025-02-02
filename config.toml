@@ -92,8 +92,8 @@ enableEmoji = true
 
     [[params.contacts]]
         label = "Instagram"
-        value = "instagram/thechefbythecooper"
-        url = "https://www.instagram.com/tiorichard"
+        value = "@thechefbythecooper"
+        url = "https://www.instagram.com/thechefbythecooper?igsh=MWF5NHdvNTJjemR3eQ=="
         icon = "fa-brands fa-instagram"
 
     # Add additional contacts here!
