@@ -17,7 +17,7 @@ At *The Chef By The Cooper*, we create **chef-crafted meals** with high-quality 
 🔹 **Lean Proteins | Vibrant Veggies | Wholesome Carbs**  
 🔹 **Bulk Options Available** – Get proteins, veggies, and carbs by the pound  
 
-![Delicious Meal Prep](images/image7.png)
+![Delicious Meal Prep](images/image10.jpg)
 
 ## **Catering – Elevate Your Events**  
 Hosting an event? Let us handle the cooking while you enjoy the moment! From intimate gatherings to large celebrations, our catering menu is designed to impress.  
