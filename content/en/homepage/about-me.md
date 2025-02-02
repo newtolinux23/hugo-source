@@ -1,5 +1,5 @@
 ---
-title: "Great Taste, Superfood!"
+title: "Exceptional Flavor, Powered by Superfoods!"
 weight: 3
 header_menu: true
 ---
