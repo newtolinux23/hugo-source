@@ -1,10 +1,11 @@
 ---
-title: "Exceptional Flavor, Powered by Superfoods!"
+title: "Exceptional Flavor"
 weight: 3
 header_menu: true
 ---
 
-![My Image](images/image9.png)
+![tiorichard](images/checked-1.png)
+
 # Fresh, Never-Frozen, Pre-Made Meals
 
 We only use premium ingredients from our network of trusted partners in our meal delivery service. All of our meals are Chef-prepared and Dietitian-approved.
