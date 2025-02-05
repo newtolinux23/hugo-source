@@ -1,31 +1,36 @@
 ---
-title: "Weekly Meal Program"
+title: "Menu of the Week"
 weight: 3
 header_menu: true
 ---
 
-![Delicious Meal Prep](images/image6.jpg)
 
-## **Fresh, Flavorful, Delivered!**  
+**Fresh, Flavorful, Delivered!** 
 
-Tired of the hassle of cooking but still want **delicious, nutritious meals**? We've got you covered!  
+Tired of the hassle of cooking but still want **delicious, nutritious meals**? We've got you covered! 
 
-**Weekly Meal Prep – Delivered to You**  
-At *The Chef By The Cooper*, we create **chef-crafted meals** with high-quality ingredients, bold flavors, and balanced nutrition—delivered **straight to your door** in Arlington.  
+![Delicious Meal Prep](images/image15.png)
 
-🔹 **Rotating Weekly Menu** – Always fresh, exciting, and seasonal  
-🔹 **Lean Proteins | Vibrant Veggies | Wholesome Carbs**  
-🔹 **Bulk Options Available** – Get proteins, veggies, and carbs by the pound  
+This week’s special: **Arroz Mamposteao with Bacon-Stuffed Chicken Breast** 
+
+Indulge in a delicious, ready-to-eat meal prepared with the finest ingredients. Our **Arroz Mamposteao**, a flavorful mix of rice and beans, is perfectly paired with a juicy **chicken breast stuffed with crispy bacon**—a dish crafted for both comfort and elegance. 
+
+Delivered fresh in a **premium, microwave-safe disposable container**, our meals are designed for your convenience without compromising on quality or presentation. 
+
+**Follow us on Instagram** for updates, behind-the-scenes, and exclusive specials! 
+
+**The Chef by the Cooper – Where Gourmet Meets Convenience**
+
+
+# Catering – Elevate Your Events
 
 ![Delicious Meal Prep](images/image10.jpg)
 
-## **Catering – Elevate Your Events**  
-Hosting an event? Let us handle the cooking while you enjoy the moment! From intimate gatherings to large celebrations, our catering menu is designed to impress.  
+Hosting an event? Let us handle the cooking while you enjoy the moment! From intimate gatherings to large celebrations, our catering menu is designed to impress. 
 
-**Serving Arlington & Beyond**  
+**Serving Arlington & Beyond** 
 
-**Weekly Delivery | Custom Catering**  
+**Weekly Delivery | Custom Catering** 
 
-Your journey to effortless, delicious eating starts here.  
-Let’s make every meal something to look forward to!  
-
+Your journey to effortless, delicious eating starts here. 
+Let’s make every meal something to look forward to! 
