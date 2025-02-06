@@ -4,12 +4,13 @@ weight: 3
 header_menu: true
 ---
 
-
 **Fresh, Flavorful, Delivered!** 
 
 Tired of the hassle of cooking but still want **delicious, nutritious meals**? We've got you covered! 
 
 ![Delicious Meal Prep](images/image15.png)
+
+---
 
 This week’s special: **Arroz Mamposteao with Bacon-Stuffed Chicken Breast** 
 
@@ -17,20 +18,10 @@ Indulge in a delicious, ready-to-eat meal prepared with the finest ingredients. 
 
 Delivered fresh in a **premium, microwave-safe disposable container**, our meals are designed for your convenience without compromising on quality or presentation. 
 
+---
+
 **Follow us on Instagram** for updates, behind-the-scenes, and exclusive specials! 
 
 **The Chef by the Cooper – Where Gourmet Meets Convenience**
 
 
-# Catering – Elevate Your Events
-
-![Delicious Meal Prep](images/image10.jpg)
-
-Hosting an event? Let us handle the cooking while you enjoy the moment! From intimate gatherings to large celebrations, our catering menu is designed to impress. 
-
-**Serving Arlington & Beyond** 
-
-**Weekly Delivery | Custom Catering** 
-
-Your journey to effortless, delicious eating starts here. 
-Let’s make every meal something to look forward to! 
