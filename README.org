@@ -1,0 +1,95 @@
+#+TITLE: Deploying a Hugo Site on GitHub Using the Two-Folder Approach
+#+AUTHOR: Rob Alicea
+#+DATE: <2025-02-09>
+#+OPTIONS: toc:nil num:nil
+
+* Overview
+This guide explains how to deploy a Hugo static website on GitHub using the **two-folder approach**, where one repository stores your Hugo source files and another repository hosts the generated site using GitHub Pages. This method keeps your repository clean and allows easy updates.
+
+[[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmG0sTTujYLYv0fIIepY8CGiS6fY6rlvNlTA&s]]
+
+* Prerequisites
+- A GitHub account
+- Hugo (Extended version) installed
+- Git installed on your system
+- Pop!_OS or any Linux distribution
+
+* Installing and Updating Hugo on Pop!_OS
+Pop!_OS comes with an outdated version of Hugo. To install or update to the latest extended version:
+
+1. Remove the old version (if installed):
+   #+begin_src bash
+   sudo apt remove hugo
+   #+end_src
+
+2. Download and install the latest Hugo Extended version:
+   #+begin_src bash
+   wget https://github.com/gohugoio/hugo/releases/latest/download/hugo_extended_Linux-64bit.tar.gz
+   tar -xvf hugo_extended_Linux-64bit.tar.gz
+   sudo mv hugo /usr/local/bin/
+   hugo version
+   #+end_src
+
+* Setting Up Hugo with GitHub Pages (Two-Folder Approach)
+
+1. **Create Two Repositories on GitHub:**
+   - One for your Hugo source files (e.g., `hugo-source`)
+   - One for your generated site (e.g., `hugo-pages`)
+
+2. **Clone the Source Repository:**
+   #+begin_src bash
+   git clone https://github.com/your-username/hugo-source.git
+   cd hugo-source
+   #+end_src
+
+3. **Create a New Hugo Site:**
+   #+begin_src bash
+   hugo new site my-hugo-site
+   cd my-hugo-site
+   #+end_src
+
+4. **Add a Theme and Customize Your Site:**
+   #+begin_src bash
+   git submodule add https://github.com/the-theme-repo themes/theme-name
+   echo 'theme = "theme-name"' >> config.toml
+   #+end_src
+
+5. **Build Your Site:**
+   #+begin_src bash
+   hugo -d ../hugo-pages
+   #+end_src
+
+6. **Deploy to GitHub Pages Repository:**
+   #+begin_src bash
+   cd ../hugo-pages
+   git init
+   git remote add origin https://github.com/your-username/hugo-pages.git
+   git branch -M main
+   git add .
+   git commit -m "Initial commit"
+   git push -u origin main
+   #+end_src
+
+7. **Enable GitHub Pages:**
+   - Go to the `hugo-pages` repository on GitHub.
+   - Navigate to *Settings > Pages*.
+   - Select the *main* branch as the source and save.
+   - Your site should be live at `https://your-username.github.io/hugo-pages/`.
+
+* Updating Your Site
+Whenever you update content, regenerate the site and push the new version:
+   #+begin_src bash
+   cd hugo-source
+   hugo -d ../hugo-pages
+   cd ../hugo-pages
+   git add .
+   git commit -m "Update site"
+   git push origin main
+   #+end_src
+
+Your updates will automatically reflect on GitHub Pages.
+
+* Conclusion
+This guide provides a structured way to deploy and maintain a Hugo site using GitHub Pages with the **two-folder approach**. This method keeps your source and deployed content separate, ensuring a clean workflow.
+
+For further customization, explore Hugo themes and configurations to enhance your site!
