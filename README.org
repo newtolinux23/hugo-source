@@ -3,7 +3,7 @@
 #+DATE: <2025-02-09>
 #+OPTIONS: toc:nil num:nil
 
-[[https://borretti.me/assets/content/nixos-for-the-impatient/nix1.jpg]]
+[[https://usersnap.com/blog/wp-content/uploads/2015/10/static-site-generator-hugo-lessons-learned.jpg]]
 
 * Overview
 This guide explains how to deploy a Hugo static website on GitHub using the **two-folder approach**, where one repository stores your Hugo source files and another repository hosts the generated site using GitHub Pages. This method keeps your repository clean and allows easy updates.
